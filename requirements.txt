@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+pyarrow
+duckdb
+psutil
+kmedoids
+kneed
+apyori
+matplotlib
+kaggle
+pillow
+torch
+transformers
